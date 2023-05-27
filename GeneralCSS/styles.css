@@ -1,0 +1,27 @@
+body
+{
+    
+    background-color: black;
+    color: black;
+    border: 1px solid white;
+    width: 60%;
+    height: 90%;
+    margin-left: 20%;
+    padding: 15px;
+    
+}
+.first
+{
+    color: white;
+            border-radius: 10px;
+}
+
+hr{
+    color: white;    
+}
+sel
+{
+    color: white;
+        border-radius: 10px;
+        height: 60%;
+}
